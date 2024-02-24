@@ -1,5 +1,5 @@
 # Hi there 👋
-My name is Matteo Fuso and I'm currently looking forward to learn more and more about code and computer science.
+My name is Matteo and I'm currently looking forward to learn more and more about code and computer science.
 
 # About ME 💬
 ```javascript
