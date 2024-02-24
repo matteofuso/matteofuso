@@ -16,7 +16,7 @@ const matteo = {
 
 <hr>
 <p align="center" >  
-  <a href="https://github.com/matteofuso/github-readme-stats"> 
+  <a href="https://github.com/matteofuso"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=matteofuso&&show_icons=true&theme=radical"/>
   </a>
 </p>
