@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there 👋
+My name is Matteo Fuso and I'm currently looking forward to learn more and more about code and computer science.
 
-<!--
-**matteofuso/matteofuso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About ME 💬
+```javascript
+const matteo = {
+  code: ["C", "C#", "HTML", "CSS", "Javascript", "Python", "SQL", "PHP"],
+  platforms: ["Windows", "Linux"],
+  languages: ["Italian", "English"],
+  tools: ["git", "github", "docker"],
+}
+```
 
-Here are some ideas to get you started:
+## Contacts
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@jayrajroshan1@gmail.com)](mailto:mail@mfuso011@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+<p align="center" >  
+  <a href="https://github.com/matteofuso/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=matteofuso&&show_icons=true&theme=radical"/>
+  </a>
+</p>
