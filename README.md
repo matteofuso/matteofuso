@@ -11,9 +11,6 @@ const matteo = {
 }
 ```
 
-## Contacts
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@jayrajroshan1@gmail.com)](mailto:mail@mfuso011@gmail.com)
-
 <hr>
 <p align="center" >  
   <a href="https://github.com/matteofuso"> 
