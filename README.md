@@ -1,15 +1,14 @@
 # Hi there 👋
-My name is Matteo and I'm currently looking forward to learn more and more about code and computer science.
+My name is Matteo, and I'm a coding enthusiast passionate about learning and exploring the world of computer science. 🤖
 
 # About ME 💬
 ```javascript
 const matteo = {
-  code: ["C", "C#", "HTML", "CSS", "Javascript", "Python", "SQL", "PHP"],
+  code: ["C", "C#", "HTML", "CSS", "Javascript", "Python"],
   platforms: ["Windows", "Linux"],
   languages: ["Italian", "English"],
-  tools: ["git", "github", "docker"],
+  tools: ["git", "github", "docker", "portainer"],
 }
-```
 
 <hr>
 <p align="center" >  
