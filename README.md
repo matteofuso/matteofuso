@@ -10,10 +10,3 @@ const matteo = {
   tools: ["git", "github", "docker", "portainer"],
 }
 ```
-
-<hr>
-<p align="center" >  
-  <a href="https://github.com/matteofuso"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=matteofuso&&show_icons=true&theme=radical"/>
-  </a>
-</p>
