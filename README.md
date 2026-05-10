@@ -4,9 +4,9 @@ My name is Matteo, and I'm a coding enthusiast passionate about learning and exp
 # About ME 💬
 ```javascript
 const matteo = {
-  code: ["C", "C#", "HTML", "CSS", "Javascript", "Python"],
+  code: ["C", "C#", "Java", "Python", "Assembly", "MySQL", "HTML", "CSS", "Javascript"],
   platforms: ["Windows", "Linux"],
   languages: ["Italian", "English"],
-  tools: ["git", "github", "docker", "portainer"],
+  tools: ["Git", "Github", "Docker", "Portainer", "Active Directory"],
 }
 ```
